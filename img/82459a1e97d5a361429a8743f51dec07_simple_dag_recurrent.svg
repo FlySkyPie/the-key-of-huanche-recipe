@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223.84mm" height="146.27mm" version="1.1" viewBox="0 0 223.84 146.27" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <marker id="Arrow1Send-3" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-2" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-6" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-1" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-7" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-6-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-7-3" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-7-9" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-6-8-8" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-7-0" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-1-1" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-1-1-3" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-3-7-3-6" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <filter id="filter3480" color-interpolation-filters="sRGB">
+   <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood"/>
+   <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+   <feGaussianBlur in="composite1" result="blur" stdDeviation="3"/>
+   <feOffset dx="0" dy="1" result="offset"/>
+   <feComposite in="SourceGraphic" in2="offset" result="composite2"/>
+  </filter>
+  <marker id="Arrow1Send-3-1-1-3-31754" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#faa" fill-rule="evenodd" stroke="#faa" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send-3-1-1-3-31754-3" overflow="visible" orient="auto">
+   <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" fill="#faa" fill-rule="evenodd" stroke="#faa" stroke-width="1pt"/>
+  </marker>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(6.1386 -45.273)">
+  <rect x="12.514" y="57.462" width="186.53" height="121.89" rx="5" fill="#fff" filter="url(#filter3480)" style="paint-order:fill markers stroke"/>
+  <g font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px">
+   <text x="21.26412" y="77.839119" style="line-height:1.25" xml:space="preserve"><tspan x="21.26412" y="77.839119" stroke-width="5.605">A</tspan></text>
+   <text x="21.037069" y="114.46622" style="line-height:1.25" xml:space="preserve"><tspan x="21.037069" y="114.46622" stroke-width="5.605">B</tspan></text>
+   <text x="21.137568" y="151.29431" style="line-height:1.25" xml:space="preserve"><tspan x="21.137568" y="151.29431" stroke-width="5.605">C</tspan></text>
+  </g>
+  <path d="m33.381 107.35 34.252-13.491" fill="none" marker-end="url(#Arrow1Send-3)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m32.858 72.552 34.775 15.324" fill="none" marker-end="url(#Arrow1Send-3-2)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="69.029381" y="97.43998" font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="69.029381" y="97.43998" stroke-width="5.605">⊙</tspan></text>
+  <text x="69.029381" y="132.71785" font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="69.029381" y="132.71785" stroke-width="5.605">⊚</tspan></text>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m33.966 141.94 33.666-11.254" marker-end="url(#Arrow1Send-3-3)"/>
+   <path d="m83.029 126.46 34.775-15.324" marker-end="url(#Arrow1Send-3-3-6)"/>
+   <path d="m83.029 92.441 34.775 15.324" marker-end="url(#Arrow1Send-3-1)"/>
+  </g>
+  <text x="154.00481" y="115.27563" font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="154.00481" y="115.27563" stroke-width="5.605">⊕</tspan></text>
+  <text x="119.11408" y="114.94788" font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="119.11408" y="114.94788" stroke-width="5.605">⊙</tspan></text>
+  <path d="m33.95 149.66h83.191" fill="none" marker-end="url(#Arrow1Send-3-3-7)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="119.11408" y="152.38614" font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="119.11408" y="152.38614" stroke-width="5.605">⊙</tspan></text>
+  <path d="m81.559 98.474 39.907 43.706" fill="none" marker-end="url(#Arrow1Send-3-3-6-8)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m33.412 111.4 33.574-0.26727" fill="none" marker-end="url(#Arrow1Send-3-3-7-3)" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="69.029381" y="115.24578" font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="69.029381" y="115.24578" stroke-width="5.605">⊚</tspan></text>
+  <text x="118.20717" y="74.996155" font-family="sans-serif" font-size="15.246px" letter-spacing="0px" stroke-width="5.605" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="118.20717" y="74.996155" stroke-width="5.605">⊙</tspan></text>
+  <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round">
+   <path d="m32.858 70.229h83.191" marker-end="url(#Arrow1Send-3-3-7-9)"/>
+   <path d="m81.791 107.25 35.259-32.161" marker-end="url(#Arrow1Send-3-3-6-8-8)"/>
+   <path d="m33.861 145.61h47.58l38.881-67.189" marker-end="url(#Arrow1Send-3-3-7-0)"/>
+   <path d="m131.52 74.469 25.488 29.784" marker-end="url(#Arrow1Send-3-1-1)"/>
+   <path d="m131.89 144.66 25.488-29.013" marker-end="url(#Arrow1Send-3-1-1-3)"/>
+   <path d="m132.16 110.12h19.89" marker-end="url(#Arrow1Send-3-3-7-3-6)"/>
+  </g>
+  <g transform="matrix(.78229 0 0 .78229 32.715 23.8)">
+   <rect x="161.45" y="149.08" width="35.66" height="35.715" fill="#e6e6e6" style="paint-order:fill markers stroke"/>
+   <g fill="#666" font-family="sans-serif" letter-spacing="0px" word-spacing="0px">
+    <g font-size="15.246px" stroke-width="5.605">
+     <text x="161.82686" y="159.99081" style="line-height:1.25" xml:space="preserve"><tspan x="161.82686" y="159.99081" fill="#666666" stroke-width="5.605">⊕</tspan></text>
+     <text x="161.82686" y="171.41156" style="line-height:1.25" xml:space="preserve"><tspan x="161.82686" y="171.41156" fill="#666666" stroke-width="5.605">⊙</tspan></text>
+     <text x="161.82686" y="182.83232" style="line-height:1.25" xml:space="preserve"><tspan x="161.82686" y="182.83232" fill="#666666" stroke-width="5.605">⊚</tspan></text>
+    </g>
+    <g font-size="8.2092px" stroke-width="3.0181">
+     <text x="179.18207" y="158.27325" style="line-height:1.25" xml:space="preserve"><tspan x="179.18207" y="158.27325" fill="#666666" stroke-width="3.0181">OR</tspan></text>
+     <text x="176.55055" y="169.64439" style="line-height:1.25" xml:space="preserve"><tspan x="176.55055" y="169.64439" fill="#666666" stroke-width="3.0181">AND</tspan></text>
+     <text x="176.15372" y="181.61183" style="line-height:1.25" xml:space="preserve"><tspan x="176.15372" y="181.61183" fill="#666666" stroke-width="3.0181">NOT</tspan></text>
+    </g>
+   </g>
+  </g>
+  <path d="m159.82 118.26c-3.6309 18.803-12.32 25.365-25.488 29.013" fill="none" marker-end="url(#Arrow1Send-3-1-1-3-31754)" stroke="#faa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0001"/>
+  <path d="m119.59 115.3c-11.493 15.319-22.177 17.417-35.614 14.935" fill="none" marker-end="url(#Arrow1Send-3-1-1-3-31754-3)" stroke="#faa" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0001"/>
+ </g>
+</svg>

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="223.83mm"
+   height="146.27mm"
+   version="1.1"
+   viewBox="0 0 223.83 146.27"
+   id="svg171"
+   sodipodi:docname="c02e0f024c944e11a2f54f462d178b8e_simple_dag.svg"
+   inkscape:export-filename="/home/flyskypie/Projects/the-key-of-huanche-recipe/img/c02e0f024c944e11a2f54f462d178b8e_simple_dag.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     id="namedview173"
+     showgrid="false"
+     inkscape:zoom="1.2517376"
+     inkscape:cx="422.98583"
+     inkscape:cy="276.41576"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg171" />
+  <defs
+     id="defs55">
+    <marker
+       id="Arrow1Send-3"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path2" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-2"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path5" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path8" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-6"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path11" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-1"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path14" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-7"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path17" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-6-8"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path20" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-7-3"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path23" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-7-9"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path26" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-6-8-8"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path29" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-7-0"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path32" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-1-1"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path35" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-1-1-3"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path38" />
+    </marker>
+    <marker
+       id="Arrow1Send-3-3-7-3-6"
+       overflow="visible"
+       orient="auto">
+      <path
+         transform="matrix(-.2 0 0 -.2 -1.2 0)"
+         d="m0 0 5-5-17.5 5 17.5 5z"
+         fill-rule="evenodd"
+         stroke="#000"
+         stroke-width="1pt"
+         id="path41" />
+    </marker>
+    <filter
+       id="filter3480"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-color="rgb(0,0,0)"
+         flood-opacity=".49804"
+         result="flood"
+         id="feFlood44" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite46" />
+      <feGaussianBlur
+         in="composite1"
+         result="blur"
+         stdDeviation="3"
+         id="feGaussianBlur48" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset50" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         result="composite2"
+         id="feComposite52" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata57">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(6.7599 -44.247)"
+     id="g169">
+    <rect
+       x="11.893"
+       y="56.436"
+       width="186.53"
+       height="121.89"
+       rx="5"
+       fill="#fff"
+       filter="url(#filter3480)"
+       style="paint-order:fill markers stroke"
+       id="rect59" />
+    <g
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       id="g73">
+      <text
+         x="21.26412"
+         y="77.839119"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text63"><tspan
+           x="21.26412"
+           y="77.839119"
+           stroke-width="5.605"
+           id="tspan61">A</tspan></text>
+      <text
+         x="21.037069"
+         y="114.46622"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text67"><tspan
+           x="21.037069"
+           y="114.46622"
+           stroke-width="5.605"
+           id="tspan65">B</tspan></text>
+      <text
+         x="21.137568"
+         y="151.29431"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text71"><tspan
+           x="21.137568"
+           y="151.29431"
+           stroke-width="5.605"
+           id="tspan69">C</tspan></text>
+    </g>
+    <path
+       d="m33.381 107.35 34.252-13.491"
+       fill="none"
+       marker-end="url(#Arrow1Send-3)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path75" />
+    <path
+       d="m32.858 72.552 34.775 15.324"
+       fill="none"
+       marker-end="url(#Arrow1Send-3-2)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path77" />
+    <text
+       x="69.029381"
+       y="97.43998"
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text81"><tspan
+         x="69.029381"
+         y="97.43998"
+         stroke-width="5.605"
+         id="tspan79">⊙</tspan></text>
+    <text
+       x="69.029381"
+       y="132.71785"
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text85"><tspan
+         x="69.029381"
+         y="132.71785"
+         stroke-width="5.605"
+         id="tspan83">⊚</tspan></text>
+    <g
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g93">
+      <path
+         d="m33.966 141.94 33.666-11.254"
+         marker-end="url(#Arrow1Send-3-3)"
+         id="path87" />
+      <path
+         d="m83.029 126.46 34.775-15.324"
+         marker-end="url(#Arrow1Send-3-3-6)"
+         id="path89" />
+      <path
+         d="m83.029 92.441 34.775 15.324"
+         marker-end="url(#Arrow1Send-3-1)"
+         id="path91" />
+    </g>
+    <text
+       x="154.00481"
+       y="115.27563"
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text97"><tspan
+         x="154.00481"
+         y="115.27563"
+         stroke-width="5.605"
+         id="tspan95">⊕</tspan></text>
+    <text
+       x="119.11408"
+       y="114.94788"
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text101"><tspan
+         x="119.11408"
+         y="114.94788"
+         stroke-width="5.605"
+         id="tspan99">⊙</tspan></text>
+    <path
+       d="m33.95 149.66h83.191"
+       fill="none"
+       marker-end="url(#Arrow1Send-3-3-7)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path103" />
+    <text
+       x="119.11408"
+       y="152.38614"
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text107"><tspan
+         x="119.11408"
+         y="152.38614"
+         stroke-width="5.605"
+         id="tspan105">⊙</tspan></text>
+    <path
+       d="m81.559 98.474 39.907 43.706"
+       fill="none"
+       marker-end="url(#Arrow1Send-3-3-6-8)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path109" />
+    <path
+       d="m33.412 111.4 33.574-0.26727"
+       fill="none"
+       marker-end="url(#Arrow1Send-3-3-7-3)"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path111" />
+    <text
+       x="69.029381"
+       y="115.24578"
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text115"><tspan
+         x="69.029381"
+         y="115.24578"
+         stroke-width="5.605"
+         id="tspan113">⊚</tspan></text>
+    <text
+       x="118.20717"
+       y="74.996155"
+       font-family="sans-serif"
+       font-size="15.246px"
+       letter-spacing="0px"
+       stroke-width="5.605"
+       word-spacing="0px"
+       style="line-height:1.25"
+       xml:space="preserve"
+       id="text119"><tspan
+         x="118.20717"
+         y="74.996155"
+         stroke-width="5.605"
+         id="tspan117">⊙</tspan></text>
+    <g
+       fill="none"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g133">
+      <path
+         d="m32.858 70.229h83.191"
+         marker-end="url(#Arrow1Send-3-3-7-9)"
+         id="path121" />
+      <path
+         d="m81.791 107.25 35.259-32.161"
+         marker-end="url(#Arrow1Send-3-3-6-8-8)"
+         id="path123" />
+      <path
+         d="m33.861 145.61h47.58l38.881-67.189"
+         marker-end="url(#Arrow1Send-3-3-7-0)"
+         id="path125" />
+      <path
+         d="m131.52 74.469 25.488 29.784"
+         marker-end="url(#Arrow1Send-3-1-1)"
+         id="path127" />
+      <path
+         d="m131.89 144.66 25.488-29.013"
+         marker-end="url(#Arrow1Send-3-1-1-3)"
+         id="path129" />
+      <path
+         d="m132.16 110.12h19.89"
+         marker-end="url(#Arrow1Send-3-3-7-3-6)"
+         id="path131" />
+    </g>
+    <g
+       transform="matrix(.78229 0 0 .78229 32.715 23.8)"
+       id="g167">
+      <rect
+         x="161.45"
+         y="149.08"
+         width="35.66"
+         height="35.715"
+         fill="#e6e6e6"
+         style="paint-order:fill markers stroke"
+         id="rect135" />
+      <g
+         fill="#666666"
+         font-family="sans-serif"
+         letter-spacing="0px"
+         word-spacing="0px"
+         id="g165">
+        <g
+           font-size="15.246px"
+           stroke-width="5.605"
+           id="g149">
+          <text
+             x="161.82686"
+             y="159.99081"
+             style="line-height:1.25"
+             xml:space="preserve"
+             id="text139"><tspan
+               x="161.82686"
+               y="159.99081"
+               fill="#666666"
+               stroke-width="5.605"
+               id="tspan137">⊕</tspan></text>
+          <text
+             x="161.82686"
+             y="171.41156"
+             style="line-height:1.25"
+             xml:space="preserve"
+             id="text143"><tspan
+               x="161.82686"
+               y="171.41156"
+               fill="#666666"
+               stroke-width="5.605"
+               id="tspan141">⊙</tspan></text>
+          <text
+             x="161.82686"
+             y="182.83232"
+             style="line-height:1.25"
+             xml:space="preserve"
+             id="text147"><tspan
+               x="161.82686"
+               y="182.83232"
+               fill="#666666"
+               stroke-width="5.605"
+               id="tspan145">⊚</tspan></text>
+        </g>
+        <g
+           font-size="8.2092px"
+           stroke-width="3.0181"
+           id="g163">
+          <text
+             x="179.18207"
+             y="158.27325"
+             style="line-height:1.25"
+             xml:space="preserve"
+             id="text153"><tspan
+               x="179.18207"
+               y="158.27325"
+               fill="#666666"
+               stroke-width="3.0181"
+               id="tspan151">OR</tspan></text>
+          <text
+             x="176.55055"
+             y="169.64439"
+             style="line-height:1.25"
+             xml:space="preserve"
+             id="text157"><tspan
+               x="176.55055"
+               y="169.64439"
+               fill="#666666"
+               stroke-width="3.0181"
+               id="tspan155">AND</tspan></text>
+          <text
+             x="176.15372"
+             y="181.61183"
+             style="line-height:1.25"
+             xml:space="preserve"
+             id="text161"><tspan
+               x="176.15372"
+               y="181.61183"
+               fill="#666666"
+               stroke-width="3.0181"
+               id="tspan159">NOT</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
