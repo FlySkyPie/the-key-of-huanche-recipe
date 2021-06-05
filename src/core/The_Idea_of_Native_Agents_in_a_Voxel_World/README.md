@@ -56,7 +56,7 @@ NHP 所仰賴的界面必定會與一般人類玩家的操作體驗有所差異�
 
 直到前一陣子「異星入境」這部電影給了我靈感[^異星入境]，既然我打算讓 NPH 用電腦的方式思考：布林代數，那我為何不讓電腦用電腦的方式溝通呢？二維條碼似乎是電腦存在於三維空間中最合適的溝通手段了，輸入直接使用視覺就能處理，而輸入就使用類似劇中手法：直接生成平面圖形。
 
-![](./img/735b456a05310148c7c023e4e6db1ab9_barcode_language.png)
+![](./img/barcode_language.svg)
 
 
 [^minetest]:  台灣摩特世界 | MINETEST@TW. (n.d.). Retrieved 2019-11-15, from  https://sites.google.com/site/minutesttw/
