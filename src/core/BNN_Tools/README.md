@@ -19,5 +19,7 @@
 
 ![](./img/actions/Evaluation.svg)
 
+![](./img/actions/Mine.svg)
+
 ![](./img/actions/Mutated_Enhancement.svg)
 
