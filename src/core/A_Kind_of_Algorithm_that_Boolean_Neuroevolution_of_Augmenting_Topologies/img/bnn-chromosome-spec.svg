@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="251.00369mm"
+   height="176.69676mm"
+   viewBox="0 0 251.00369 176.69676"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (1.0.2+r75+1)"
+   sodipodi:docname="bnn-chromosome-spec.svg"
+   inkscape:export-filename="/home/flyskypie/Desktop/chromosome.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1098">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1088" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1090" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="3"
+         result="blur"
+         id="feGaussianBlur1092" />
+      <feOffset
+         dx="0"
+         dy="1"
+         result="offset"
+         id="feOffset1094" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1096" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="833.39304"
+     inkscape:cy="351.74574"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     showguides="false" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(21.754661,22.348238)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke;filter:url(#filter1098)"
+       id="rect1086"
+       width="209.16974"
+       height="147.2473"
+       x="-0.83768588"
+       y="-7.623507"
+       rx="10"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 187.97003,84.639191 187.36612,44.635109"
+       id="path998-9-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 128.63622,84.639191 161.70653,44.635109"
+       id="path998-9-2-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-61"
+       width="25.659584"
+       height="9.5955954"
+       x="11.265757"
+       y="35.047123"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-61-8"
+       width="25.659586"
+       height="9.5955963"
+       x="60.826553"
+       y="35.039513"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.37398px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.209349"
+       x="11.167275"
+       y="91.888641"
+       id="text1002"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1000"
+         x="11.167275"
+         y="91.888641"
+         style="stroke-width:0.209349">Header [1 bytes]</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.961288,44.642713 c -0.0632,7.989084 12.287905,4.670448 12.325736,10.114387 0.0098,-5.424127 12.315519,-2.653202 12.63832,-10.114386"
+       id="path990-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.08635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 128.63624,94.52816 c -0.0746,7.9891 14.50171,4.670453 14.54636,10.1144 0.0118,-5.424137 14.5343,-2.6532 14.91525,-10.1144"
+       id="path990-2-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.08635;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.50841,94.52816 c -0.0746,7.9891 14.50171,4.670453 14.54636,10.1144 0.0118,-5.424137 14.53431,-2.6532 14.91526,-10.1144"
+       id="path990-2-3-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.24325"
+       y="113.17641"
+       id="text1181"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1179"
+         x="109.24325"
+         y="113.17641"
+         style="font-size:8.46667px;stroke-width:0.264583">node1 id</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="109.24325"
+       y="123.75188"
+       id="text1181-4"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1179-7"
+         x="109.24325"
+         y="123.75188"
+         style="font-size:8.46667px;stroke-width:0.264583">node2 id</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 173.05477,104.64256 v 16.69018 h -25.13215"
+       id="path1219"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#80ffb3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.492797;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-62-0-1-3"
+       width="23.901209"
+       height="9.6032028"
+       x="36.925343"
+       y="35.039513"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-61-8-6"
+       width="25.659586"
+       height="9.5955963"
+       x="86.486137"
+       y="35.039513"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-61-8-6-7"
+       width="25.659586"
+       height="9.5955963"
+       x="112.14573"
+       y="35.039513"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g1002"
+       transform="matrix(0.66900821,0,0,0.54256799,16.664995,-8.7214232)"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path948-3"
+         style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 139.72397,77.227659 c -2.49053,2.717763 -4.53249,8.273931 -0.29042,13.150101 4.24208,4.87616 2.38789,9.422061 -0.27285,12.34033 l 7.18044,0.0367 c 2.66074,-2.918277 4.51493,-7.46416 0.27285,-12.34033 -4.24207,-4.876165 -2.19959,-10.432338 0.29094,-13.150101 z" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.829903;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.72397,77.227659 c -2.49053,2.717762 -4.53274,8.273857 -0.29067,13.150023 4.24208,4.876166 2.38797,9.422324 -0.27277,12.340598"
+         id="path948"
+         sodipodi:nodetypes="czc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.829903;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 146.90469,77.264423 c -2.49053,2.717762 -4.53274,8.273857 -0.29067,13.150023 4.24208,4.876166 2.38797,9.422321 -0.27277,12.340604"
+         id="path948-5"
+         sodipodi:nodetypes="czc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="43.278515"
+       y="77.20015"
+       id="text1181-8-1"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1179-4-2"
+         x="43.278515"
+         y="77.20015"
+         style="font-size:8.46667px;stroke-width:0.264583">Weight [1 bytes]</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.974486;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36.925332,44.642715 c -0.06002,7.989084 11.668879,4.670448 11.704804,10.114387 0.0093,-5.424127 11.695102,-2.653202 12.001641,-10.114386"
+       id="path990-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.01467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60.826562,44.635108 c -0.06507,7.989084 12.651055,4.670448 12.690004,10.114387 0.01009,-5.424127 12.679485,-2.653202 13.011826,-10.114386"
+       id="path990-2-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.748683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1139"
+       width="28.019245"
+       height="9.3629446"
+       x="135.55939"
+       y="54.517544"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.748683;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1139-7"
+       width="28.019245"
+       height="9.3629446"
+       x="167.95203"
+       y="55.023998"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.008118"
+       y="62.163017"
+       id="text1038-9"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1036-3"
+         x="68.008118"
+         y="62.163017"
+         style="font-size:8.11389px;stroke-width:0.264583">Link Gene  [ceil(n/8)*2 bytes]</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 24.287024,54.7571 V 85.068295"
+       id="path1219-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g944"
+       transform="translate(-4.0039125,-5.6980776)"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-7"
+         width="9.8889723"
+         height="9.8889723"
+         x="17.773602"
+         y="7.497952" />
+      <rect
+         style="opacity:1;fill:#80ffb3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1"
+         width="9.8889723"
+         height="9.8889723"
+         x="27.662575"
+         y="7.497952" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2"
+         width="9.8889723"
+         height="9.8889723"
+         x="37.551548"
+         y="7.4979515" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2-6"
+         width="9.8889723"
+         height="9.8889723"
+         x="47.440521"
+         y="7.4979515" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2-1"
+         width="9.8889723"
+         height="9.8889723"
+         x="57.329494"
+         y="7.4979515" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2-8"
+         width="9.8889723"
+         height="9.8889723"
+         x="67.218468"
+         y="7.4979515" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2-7"
+         width="9.8889723"
+         height="9.8889723"
+         x="77.107437"
+         y="7.4979534" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2-9"
+         width="9.8889723"
+         height="9.8889723"
+         x="86.996407"
+         y="7.4979529" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2-2"
+         width="9.8889723"
+         height="9.8889723"
+         x="96.885376"
+         y="7.4979529" />
+      <rect
+         style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="rect815-62-0-1-2-0"
+         width="9.8889723"
+         height="9.8889723"
+         x="106.77435"
+         y="7.4979529" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.860118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 33.399827,11.618817 c -0.200871,5.899954 39.047841,3.449133 39.168067,7.46949 0.03178,-4.005727 39.135596,-1.959391 40.161356,-7.46949"
+       id="path990-2-3-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.37398px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.209349"
+       x="57.261909"
+       y="26.949013"
+       id="text1002-7-6-3"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1000-5-29-7"
+         x="57.261909"
+         y="26.949013"
+         style="stroke-width:0.209349">1~8 genes</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 36.925341,35.047122 23.658663,11.688847"
+       id="path998-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.79375, 0.79375;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 137.80531,35.039513 112.65941,11.688847"
+       id="path998-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.630136,54.757102 V 68.873337"
+       id="path1219-6-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#80ffb3;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.492797;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-62-0-1-3-6"
+       width="23.901209"
+       height="9.6032028"
+       x="137.80531"
+       y="35.031906"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#aade87;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-61-8-7"
+       width="25.659586"
+       height="9.5955963"
+       x="161.70653"
+       y="35.039513"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-62-2-5"
+       width="9.8889723"
+       height="9.8889723"
+       x="128.63622"
+       y="84.639191"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-9-7-3"
+       width="9.8889723"
+       height="9.8889723"
+       x="138.52516"
+       y="84.639191"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-1-0-5"
+       width="9.8889723"
+       height="9.8889723"
+       x="148.41412"
+       y="84.639191"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#80e5ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-62-9-6"
+       width="9.8889723"
+       height="9.8889723"
+       x="158.30312"
+       y="84.639191"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#80e5ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-9-3-2"
+       width="9.8889723"
+       height="9.8889723"
+       x="168.19209"
+       y="84.639191"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#80e5ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect815-1-6-9"
+       width="9.8889723"
+       height="9.8889723"
+       x="178.08105"
+       y="84.639191"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.44294px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.138842"
+       x="6.1228752"
+       y="135.66432"
+       id="text1181-0"
+       inkscape:export-filename="/home/flyskypie/Desktop/rect1086.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1179-9"
+         x="6.1228752"
+         y="135.66432"
+         style="font-size:4.44294px;fill:#999999;stroke-width:0.138842">binary chromosome spec. ver. 2.0.0</tspan></text>
+  </g>
+</svg>
