@@ -1,0 +1,131 @@
+FORMAT: 1A
+HOST: http://0.0.0.0:57967
+# Chromosome Repository
+
+The server to manage/provide chromosome(genes) of boolean neural network.
+
+# Group Chromosome Operation
+
+## Login in [/login]
+
+### Get the token [POST]
+
++ Request (application/json)
+
+    + Attributes (TokenRequest)
+
++ Response 200 (application/json)
+
+    Verification succeeded.
+    
+    + Attributes (TokenResponse)
+    
++ Response 400 (application/json)
+
+    Bad Request
+    
+    + Attributes (ErrorResponse)
+
++ Response 401 (application/json)
+
+    Verification failed.
+    
+    + Attributes (ErrorResponse)
+
+## New Chromosome [/chromosome]
+
+### Create new chromosome [POST]
+
++ Request (application/json)
+
+    + Attributes (NewChromosomeRequest)
+
++ Response 200 (application/json)
+
+    Created a new chromosome.
+    
+    + Attributes (ChromosomeMeta)
+
+## Access Chromosome [/chromosome/{id}]
+
+### Get chromosome [POST]
+
++ Parameter
+  
+    + id: 1(number, required) - unique identifier of chromosome
+  
++ Request (application/json)
+
+    + Attributes (AuthenticationRequired)
+
++ Response 200 (application/octet-stream)
+
+    Return the chromosome.
+    
+    + Body
+
+            {HttpResponse}
+    
++ Response 401 (application/json)
+
+    Verification failed.
+    
+    + Attributes (ErrorResponse)
+
+### Mutate a chromosome [PUT]
+
++ Parameter
+  
+    + id: 1(number, required) - unique identifier of chromosome
+  
++ Response 200 (application/json)
+
+    Return the chromosome.
+    
+    + Attributes (ChromosomeMeta)
+    
++ Response 401 (application/json)
+
+    Verification failed.
+    
+    + Attributes (ErrorResponse)
+
+# Data Structures
+
+## TokenRequest
+
++ user: username (string, required) - 使用者名稱
++ password: password (string, required) - 密碼
++ type:  (enum[string]) - 登入型態
+    + web (default)
+    + ml
+
+## TokenResponse
+
++ expired_in: 2020-11-14T13:43:44.471Z (string, required) - 過期的 Zulu time
++ token: 1bc123 (string, required) - 令牌
+
+## ErrorResponse
+
++ error: message (string, required) - 錯誤訊息
+
+## AuthenticationRequired
+
++ token: 1bc123 (string, required) - 令牌
+
+## NewChromosomeRequest (AuthenticationRequired)
+
++ scale: 12 (number, required) - The address length of the network.
++ gends: 10 (number, required) - Amount of gene want to create.
+
+## ChromosomeMeta
+
++ id: 22 (number, required) - unique identifier of the chromosome
++ parent_id: 11(number, required) - parent id of the chromosome
++ generation: 11(number, required) - parent id of the chromosome
+
+
+## LoginType (enum)
+
++ `web`
++ `ml`
