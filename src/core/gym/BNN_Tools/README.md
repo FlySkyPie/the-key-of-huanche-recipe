@@ -1,5 +1,13 @@
 # BNN Tools
 
+![](./img/process-flow.png)
+
+## 染色體編碼
+
+布林類神經網路數位染色體 (Boolean Neural Network Digital Chromosome)，於本專案皆簡稱為染色體。
+
+![](./img/bnn-chromosome-spec.svg)
+
 ## 對象
 
 ![](./img/subject/Entropy_Mineral.svg)
